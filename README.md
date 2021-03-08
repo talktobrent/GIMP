@@ -1,2 +1,2 @@
 # GIMP
-SOme examples of my GIMP work
+Some examples of my GIMP work
